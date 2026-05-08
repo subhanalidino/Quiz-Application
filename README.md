@@ -20,4 +20,4 @@ Open the project in IntelliJ IDEA and run the main Java file.
 Paste video link here
 
 ## GitHub Repository
-Paste repository link here
+https://github.com/subhanalidino/Quiz-Application
