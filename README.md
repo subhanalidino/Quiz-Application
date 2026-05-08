@@ -5,7 +5,7 @@ A GUI-based Quiz Application developed using Java Swing. The project contains 2 
 
 ## Group Members
 - Subhan Ali Dino  - CMS/ID: 023-25-0186
-- Maryam Ali  - CMS/ID:
+- Maryam Ali  - CMS/ID: 023-25-0162
 - Section : C
 
 ## Main Modules
