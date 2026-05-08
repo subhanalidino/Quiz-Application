@@ -12,9 +12,18 @@ A GUI-based Quiz Application developed using Java Swing. The project contains 2 
 - Subject Selection
 - Quiz System
 - Result Display
+- Database Connection 
 
 ## How to Run
-Open the project in IntelliJ IDEA and run the main Java file.
+1. Open project in IntelliJ IDEA
+2. Compile all Java files
+3. Run QuizResultApp.java (main file)
+
+## Files Included
+- Java source files (.java)
+- Images used in GUI
+- MySQL connector (mysql-connector-j-9.6.0.jar)
+- Database script (Project.sql)
 
 ## Demo Video
 Paste video link here
