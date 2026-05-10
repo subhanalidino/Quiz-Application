@@ -26,7 +26,7 @@ A GUI-based Quiz Application developed using Java Swing. The project contains 2 
 - Database script (Project.sql)
 
 ## Demo Video
-Paste video link here
+https://youtu.be/1JDZnP2UHy8
 
 ## GitHub Repository
 https://github.com/subhanalidino/Quiz-Application
